@@ -4,7 +4,7 @@ import {
 } from "react-icons/fa";
 
 import pizza from "../assets/pizza.png";
-import burger from "../assets/Burger.png";
+import burger from "../assets/burger.png";
 import pasta from "../assets/pasta.png";
 import steak from "../assets/steak.png";
 import dessert from "../assets/dessert.png";
